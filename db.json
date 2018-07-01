@@ -1,48 +1,50 @@
-[
-  {
-    "product": {
-      "id": 123,
-      "name": "มะเขือเทศ"
+{
+  "departmentSummry": [
+    {
+      "product": {
+        "id": 123,
+        "name": "มะเขือเทศ"
+      },
+      "branchOrder": {
+        "amount": 250,
+        "unit": "PK"
+      },
+      "finItem": {
+        "amount": 100,
+        "unit": "PK"
+      },
+      "stockGoal": {
+        "amount": 200,
+        "unit": "KG"
+      },
+      "rawItem": {
+        "amount": 50,
+        "unit": "KG"
+      },
+      "summaryDate": "2018-06-16"
     },
-    "branchOrder": {
-      "amount": 250,
-      "unit": "PK"
-    },
-    "finItem": {
-      "amount": 100,
-      "unit": "PK"
-    },
-    "stockGoal": {
-      "amount": 200,
-      "unit": "KG"
-    },
-    "rawItem": {
-      "amount": 50,
-      "unit": "KG"
-    },
-    "summaryDate": "2018-06-16"
-  },
-  {
-    "product": {
-      "id": 133,
-      "name": "แตงกวาญี่ปุ่น"
-    },
-    "branchOrder": {
-      "amount": 100,
-      "unit": "PK"
-    },
-    "finItem": {
-      "amount": 100,
-      "unit": "PK"
-    },
-    "stockGoal": {
-      "amount": 50,
-      "unit": "KG"
-    },
-    "rawItem": {
-      "amount": 0,
-      "unit": "KG"
-    },
-    "summaryDate": "2018-06-16"
-  }
-]
+    {
+      "product": {
+        "id": 133,
+        "name": "แตงกวาญี่ปุ่น"
+      },
+      "branchOrder": {
+        "amount": 100,
+        "unit": "PK"
+      },
+      "finItem": {
+        "amount": 100,
+        "unit": "PK"
+      },
+      "stockGoal": {
+        "amount": 50,
+        "unit": "KG"
+      },
+      "rawItem": {
+        "amount": 0,
+        "unit": "KG"
+      },
+      "summaryDate": "2018-06-16"
+    }
+  ]
+}
