@@ -2,8 +2,8 @@
   "departmentSummary": [
     {
       "product": {
-        "id": 123,
-        "name": "มะเขือเทศ"
+        "id": 1,
+        "name": "Vegetable1"
       },
       "branchOrder": {
         "amount": 250,
@@ -25,8 +25,54 @@
     },
     {
       "product": {
-        "id": 133,
-        "name": "แตงกวาญี่ปุ่น"
+        "id": 2,
+        "name": "Vegetable2"
+      },
+      "branchOrder": {
+        "amount": 250,
+        "unit": "PK"
+      },
+      "finItem": {
+        "amount": 100,
+        "unit": "PK"
+      },
+      "stockGoal": {
+        "amount": 200,
+        "unit": "KG"
+      },
+      "rawItem": {
+        "amount": 50,
+        "unit": "KG"
+      },
+      "summaryDate": "2018-06-16"
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Vegetable3"
+      },
+      "branchOrder": {
+        "amount": 250,
+        "unit": "PK"
+      },
+      "finItem": {
+        "amount": 100,
+        "unit": "PK"
+      },
+      "stockGoal": {
+        "amount": 200,
+        "unit": "KG"
+      },
+      "rawItem": {
+        "amount": 50,
+        "unit": "KG"
+      },
+      "summaryDate": "2018-06-16"
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Vegetable4"
       },
       "branchOrder": {
         "amount": 100,
